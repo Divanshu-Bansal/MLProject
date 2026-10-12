@@ -2,5 +2,6 @@ pandas
 numpy
 seaborn
 scikit-learn
+dill
 
-# -e .
+# -e . #TODO
